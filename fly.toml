@@ -1,0 +1,14 @@
+# fly.toml file generated for franker on 2022-06-07T13:20:06-04:00
+
+app = "franker"
+
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[build]
+  builder = "heroku/buildpacks:20"
+
+[experimental]
+  allowed_public_ports = []
+  auto_rollback = true
