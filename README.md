@@ -1,6 +1,6 @@
 ![cover image](/cover.png)
 # Franker
-A FrankerFaceZ bot for Discord.
+A Discord bot that lets you use any emote from [FrankerFaceZ](https://www.frankerfacez.com/emoticons/) in your server.
 
 [Add to your server](https://discord.com/api/oauth2/authorize?client_id=983546481015398510&permissions=0&scope=bot%20applications.commands)
 
